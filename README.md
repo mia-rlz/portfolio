@@ -5,6 +5,5 @@ My Tester's Portfolio
 # Umiejętności
 # Kursy
 # Książki
-# Grupy na Facebook'u
 # Test Cases
 # Bug reports
